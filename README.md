@@ -1,5 +1,6 @@
 # Park-Platform-Design-Challenge
 ![alt text](https://raw.githubusercontent.com/michi9450/Park-Platform-Design-Challenge/refs/heads/main/Canva_Screenshots/homepage.png)
+
 #description
 Prototype park finding app, focused on users searching and creating events at parks. Also includes pages for reporting issues in parks
 
