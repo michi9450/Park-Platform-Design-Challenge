@@ -18,7 +18,7 @@ a way to see local gathering easier means they are more likely to attend them.
 #Feedback_taken
 Our orignal design was focused on only showing parks that are local to you, which we were
 advised to change since that limits the use of our app and isnt very friendly to users who are differently abled.
-So we added a search feature to our map and event viewer.
+So we added a search feature to our map and event viewer. We also had less nagivation between menus, so we added more buttons for nagivation.
 
 #key_Elements_Focused_on
 We focused on making the creation of reprots and events as easy as possible.
