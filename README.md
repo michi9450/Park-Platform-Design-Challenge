@@ -26,7 +26,7 @@ Added both search and sort bottom on the events, gps tracking for user location.
 
 #authors
 Alejandro A. Espino-Cebrero
-Cuauhtemoc Aguilar Mandujano
+Cuauhtemoc Aguilar
 Isaac Phon
 Marcus Nguyen
 Holden Tsang
