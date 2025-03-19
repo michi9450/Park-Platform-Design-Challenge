@@ -23,6 +23,7 @@ So we added a search feature to our map and event viewer. We also had less nagiv
 #key_Elements_Focused_on
 We focused on making the creation of reprots and events as easy as possible.
 Added both search and sort bottom on the events, gps tracking for user location.
+Focused on making an intuitive review section.
 
 #authors
 Alejandro A. Espino-Cebrero
